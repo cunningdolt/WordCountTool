@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WordCountTool:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WordCountTool_jar</output-path>
+    <root id="archive" name="WordCountTool.jar">
+      <element id="module-output" name="WordCountTool" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/gui" />
+    </root>
+  </artifact>
+</component>
